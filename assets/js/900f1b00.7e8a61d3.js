@@ -1,0 +1,1 @@
+(self.webpackChunkqati_docs=self.webpackChunkqati_docs||[]).push([[778],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/docusaurus-demo/blog/welcome"},{"title":"Hello","permalink":"/docusaurus-demo/blog/hello-world"},{"title":"Hola","permalink":"/docusaurus-demo/blog/hola"}]}')}}]);

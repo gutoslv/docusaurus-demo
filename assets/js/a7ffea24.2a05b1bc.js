@@ -1,0 +1,1 @@
+(self.webpackChunkqati_docs=self.webpackChunkqati_docs||[]).push([[950],{5828:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docusaurus-demo/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/docusaurus-demo/blog/tags/docusaurus"}')}}]);
